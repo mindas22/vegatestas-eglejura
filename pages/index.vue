@@ -11,41 +11,31 @@
 
       </div>
       <v-card>
-        <v-card-title class="headline">Welcome!</v-card-title>
+        <v-card-title class="headline">Vega testas</v-card-title>
         <v-card-text>
-          <p>Vuetify is a progressive Material Design component framework for Vue.js. It was designed to empower developers to create amazing applications.</p>
-          <p>For more information on Vuetify, check out the <a
-            href="https://vuetifyjs.com"
-            target="_blank">documentation</a>.</p>
-          <p>If you have questions, please join the official <a
-            href="https://chat.vuetifyjs.com/"
-            target="_blank"
-            title="chat">discord</a>.</p>
-          <p>Find a bug? Report it on the github <a
-            href="https://github.com/vuetifyjs/vuetify/issues"
-            target="_blank"
-            title="contribute">issue board</a>.</p>
-          <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
-          <div class="text-xs-right">
-            <em><small>&mdash; John Leider</small></em>
-          </div>
-          <hr class="my-3">
-          <a
-            href="https://nuxtjs.org/"
-            target="_blank">Nuxt Documentation</a>
+          <h2>Vega testas:</h2> <p>– tai diagnostika, atliekama su labai jautria aparatūra, 
+            kuri <strong>fiksuoja menkiausius organizmo funkcijos sutrikimus ląsteliniu lygmeniu.</strong> 
+            Tyrimo metu vienoje rankoje laikomas pasyvus elektrodas, o kitoje aktyviu 
+            elektrodu matuojami sveiko taško fizikiniai parametrai ir stebimas organizmo 
+            atsakas į tam tikrus dirgiklius. Jeigu organizme yra pakitimų, kompiuterio 
+            ekrane pastebimas rezonansinis atsakas ir . koreguojami sie  sutrikimai..</p>
+          <h2> Vega testo metu galima nustatyti:</h2>
+          <ul>
+            <li>ar žmogaus organizmas yra paveiktas žalingų geopatogenezinių zonų, jonizuojančios radiacijos, elektromagnetinių jėgos laukų (mobiliųjų telefonų, kompiuterių);</li>
+            <li>ar organizme yra parazitų, bakterijų, virusų, toksinų, sunkiųjų metalų bei kitų medžiagų;</li>
+            <li>ar organizmui trūksta vitaminų, mineralų, hormonų;</li>
+            <li>ar sutrikęs rūgščių – šarmų balansas organizme, natūralusis pH;</li>
+            <li>ar pasireiškia alergija;</li>
+            <li>ar negresia susirgti onkologine liga;</li>
+            <li>ar organizme yra mikro, makro auglių, gerybinių auglių, cistų;</li>
+            <li>ar slypi ūmus ar lėtinis uždegimas;</li>
+            <li>ar yra tinkami maisto produktai </li>
+            <li>ar yra psichoemociniu sutrikimu bei bioenergetiniu organizmo disbalansu</li>
+            <li>ar gydytojo paskirti vaistai ligoniui yra tinkami ir kt.</li>
+          </ul>
           <br>
-          <a
-            href="https://github.com/nuxt/nuxt.js"
-            target="_blank">Nuxt GitHub</a>
+          <h2>Homeopatija:</h2> – tai biologinė, natūrali medicina, kuri apima visa, kas paimta iš gamtos. Gydymo principas yra ne slopinti, o aktyvinti organizmo reakcijas, siekiant padėti organizmui harmonizuoti visas sistemas ir jas atvesti į pusiausvyrą. Homeopatija yra glaudžiai susijusi su organizmo valymu ir psichoemocinio lygio normalizavimu. Tai alternatyva cheminei medicinai, kurios gydymo principai yra visiškai kitokie.</p>
         </v-card-text>
-        <v-card-actions>
-          <v-spacer/>
-          <v-btn
-            color="primary"
-            flat
-            nuxt
-            to="/inspire">Continue</v-btn>
-        </v-card-actions>
       </v-card>
     </v-flex>
   </v-layout>

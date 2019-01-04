@@ -4,8 +4,10 @@
       :clipped-left="clipped"
       fixed
       app
-    >
+      class="orange lighten-4"
+    ><v-spacer></v-spacer>
       <v-toolbar-title v-text="title"/>
+      <v-spacer></v-spacer>
     </v-toolbar>
     <v-content>
       <v-container>
