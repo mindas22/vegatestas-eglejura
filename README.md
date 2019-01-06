@@ -1,22 +1,17 @@
-# vegatestas-eglejura.com
+# Vega testas
 
-> Vega testas Egle Jura
+ – tai diagnostika, atliekama su labai jautria aparatūra, kuri **fiksuoja menkiausius organizmo funkcijos sutrikimus ląsteliniu lygmeniu**. Tyrimo metu vienoje rankoje laikomas pasyvus elektrodas, o kitoje aktyviu elektrodu matuojami sveiko taško fizikiniai parametrai ir stebimas organizmo atsakas į tam tikrus dirgiklius. Jeigu organizme yra pakitimų, kompiuterio ekrane pastebimas rezonansinis atsakas ir . koreguojami sie  sutrikimai..
 
-## Build Setup
+**Vega testo metu galima nustatyti:**
 
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+- ar žmogaus organizmas yra paveiktas žalingų geopatogenezinių zonų, jonizuojančios radiacijos, elektromagnetinių jėgos laukų (mobiliųjų telefonų, kompiuterių);
+- ar organizme yra parazitų, bakterijų, virusų, toksinų, sunkiųjų metalų bei kitų medžiagų;
+- ar organizmui trūksta vitaminų, mineralų, hormonų;
+- ar sutrikęs rūgščių – šarmų balansas organizme, natūralusis pH;
+- ar pasireiškia alergija;
+- ar negresia susirgti onkologine liga;
+- ar organizme yra mikro, makro auglių, gerybinių auglių, cistų;
+- ar slypi ūmus ar lėtinis uždegimas;
+- ar yra tinkami maisto produktai
+- ar yra psichoemociniu sutrikimu bei bioenergetiniu organizmo disbalansu
+- ar gydytojo paskirti vaistai ligoniui yra tinkami ir kt.
