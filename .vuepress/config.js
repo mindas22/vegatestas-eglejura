@@ -52,11 +52,11 @@ module.exports = {
         },
         nav: [
           { text: 'Вега тест', link: '/ru/' },
-          { text: 'о Егле', link: '/ru/about' }
+          { text: 'о Эгле', link: '/ru/about' }
         ],
         algolia: {},
         sidebar: {
-          '/zh/': [/* ... */],
+          '/ru/': [/* ... */],
           '/zh/nested/': [/* ... */]
         }
       }
