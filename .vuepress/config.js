@@ -32,8 +32,9 @@ module.exports = {
         // algolia docsearch options for current locale
         algolia: {},
         nav: [
-          { text: 'vega testas', link: '/' },
+          { text: 'pradžia', link: '/' },
           { text: 'apie Eglę', link: '/about' },
+          { text: 'vega testas', link: '/vega-testas' },
           { text: 'homeopatija', link: '/homeopatija' }
         ],
         sidebar: {
