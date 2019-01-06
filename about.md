@@ -1,6 +1,8 @@
 # Eglė Aukštakalnienė - gydytoja homeopatė
 
-1994 baige medicinos studijas Kauno Medicinos Akademijoje.
+<!-- ![Eglė Aukštakalnienė](./img/egle-aukstakalniene.jpg) -->
+<img src="./img/egle-aukstakalniene.jpg" alt="Eglė Aukštakalnienė" height="400" style="float:left; padding-right: 10px;"/>
+1994 baigė medicinos studijas Kauno Medicinos Akademijoje.
 Įgijo medicinos gydytojo kvalifikaciją, bei bendros medicinos praktikos specialybę. Šeimos gydytojo praktinė patirtis apie 15 metų.
 
 Studijavo homeopatiją Kauno Medicinos universitete.
