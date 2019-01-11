@@ -4,11 +4,11 @@ heroImage: /hero1a.jpg
 actionText: Registruotis konsultacijai →
 actionLink: /konsultacija/index
 features:
-- title: Konsultacija Airijoje
+- title: Konsultacijos Airijoje
   details: Airija Dublinas 2019 Sausio 26-28
-- title: Konsultacija Anglijoje
+- title: Konsultacijos Anglijoje
   details: Informacija ruošiama.
-- title: Konsultacija Lietuvoje
+- title: Konsultacijos Lietuvoje
   details: Kaunas
 footer: Copyright © 2019 Vega testas Eglė Aukštakalnienė
 ---
