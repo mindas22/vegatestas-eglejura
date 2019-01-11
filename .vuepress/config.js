@@ -33,7 +33,7 @@ module.exports = {
         algolia: {},
         nav: [
           { text: 'pradžia', link: '/' },
-          { text: 'apie Eglę', link: '/about' },
+          { text: 'Eglė Aukštakalnienė', link: '/about' },
           { text: 'vega testas', link: '/vega-testas' },
           { text: 'homeopatija', link: '/homeopatija' }
         ],
