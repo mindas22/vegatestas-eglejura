@@ -10,11 +10,18 @@ features:
   details: Informacija ruošiama.
 - title: Konsultacija Lietuvoje
   details: Kaunas
-footer: Copyright © 2019 Vega testas Egle Jura
+footer: Copyright © 2019 Vega testas Eglė Aukštakalnienė
 ---
+# Vega Testas
 
-vega testo metu,,,,galima istirti visa organiuzmo bukle,,,t,y,,,visu organu funkcinius ir organinius sutrikimus,,,,t,y,,,,kai dar nejauciame simptomu,,o organizmas jau eina i liga..taip pat  
+Vega testo būdu galima ištirti visą organizmo būklę ,,tai yra,visų organų fukcinius ir organinius sutrikimus,kai dar nejaučiame simptomų,o organizmas eina į ligą.
 
-uzterstuma,,,parazitus  bakterijas virusus..alergijas    medziagu apykaitos sutrikimus...hormonu sutrikimus  ir visa tai,,,galima gydyti ir koreguoti ne cheminiu preparatu deka,,kurie individualiai parenkami sio testo metu.Tiriama ir zmogaus psichoemocija...nervu 
+Taip pat galima nustatyti organizmo uzterštumą, parazitus,bakterijas, virusus, grybelinę infekciją, alergijas  ir medziagų apykaitos  sutrikimus, bei hormoninius palitimus.
 
-sistema   ir visa tai yra galimybe tvarkyti ir gydyti.Tyrimas atliekamas be intervencijos,,,tiriant akupunkturini taska delve biorezonansiniu metodu.As esu gydytoja homeopate ir bendros praktikos gydytoja,,,todel profesionaliai galiu padeti  visais sveikatos ir profilaktikos klausimais.
+Ir visa tai galima koreguoti ir gydyti dėka preparatų, kurie individualiai parenkami šio tyrimo metu.
+
+Tyrimas atliekamas be intervencijos, tiriant akupunkurinį taską delne, biorezonansiniu metodu.
+
+Aš esu gydytoja homeopatė ir bendros praktikos gydytoja, todel galiu padėti visais sveikatos ir  profilaktinias klausimais.
+
+Taip pat svarbus psichoemocinis ištyrimas, kuris yra būtinas kiekvienos ligos bei visų negalavimų gydyme.

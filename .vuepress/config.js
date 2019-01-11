@@ -35,7 +35,8 @@ module.exports = {
           { text: 'pradžia', link: '/' },
           { text: 'Eglė Aukštakalnienė', link: '/about' },
           { text: 'vega testas', link: '/vega-testas' },
-          { text: 'homeopatija', link: '/homeopatija' }
+          { text: 'homeopatija', link: '/homeopatija' },
+          { text: 'klausimai', link: '/klausimai/' }
         ],
         sidebar: {
           '/': [/* ... */],
