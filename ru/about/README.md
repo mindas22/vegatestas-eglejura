@@ -1,6 +1,6 @@
 # Эгле Аукштакальнене –   врач натуропат-гомеопат.
 
-<img src="../img/egle-aukstakalniene.jpg" alt="Eglė Aukštakalnienė" height="400" style="float:left; padding: 0 10px;"/>
+<img src="../../img/egle-aukstakalniene.jpg" alt="Eglė Aukštakalnienė" height="400" style="float:left; padding: 0 10px;"/>
 
 1994 г.закончила Медицинскую Академию в Каунассе и получила
 квалификацию врача общей практики.Стаж врача общей практики

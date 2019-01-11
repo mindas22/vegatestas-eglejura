@@ -33,15 +33,15 @@ module.exports = {
         algolia: {},
         nav: [
           { text: 'pradžia', link: '/' },
-          { text: 'Eglė Aukštakalnienė', link: '/about' },
-          { text: 'vega testas', link: '/vega-testas' },
-          { text: 'homeopatija', link: '/homeopatija' },
+          { text: 'Eglė Aukštakalnienė', link: '/about/' },
+          { text: 'vega testas', link: '/vega-testas/' },
+          { text: 'homeopatija', link: '/homeopatija/' },
           { text: 'klausimai', link: '/klausimai/' }
         ],
-        sidebar: {
-          '/': [/* ... */],
-          '/nested/': [/* ... */]
-        }
+        // sidebar: {
+        //   '/': [/* ... */],
+        //   '/nested/': [/* ... */]
+        // }
       },
       '/ru/': {
         selectText: 'язык',
@@ -54,7 +54,7 @@ module.exports = {
         },
         nav: [
           { text: 'Вега тест', link: '/ru/' },
-          { text: 'о Эгле', link: '/ru/about' }
+          { text: 'Эгле Аукштакальнене', link: '/ru/about/' }
         ],
         algolia: {},
         sidebar: {
