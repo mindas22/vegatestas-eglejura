@@ -36,6 +36,7 @@ module.exports = {
           { text: 'Eglė Aukštakalnienė', link: '/about/' },
           { text: 'vega testas', link: '/vega-testas/' },
           { text: 'homeopatija', link: '/homeopatija/' },
+          { text: 'konsultacija', link: '/konsultacija/' },
           { text: 'klausimai', link: '/klausimai/' }
         ],
         // sidebar: {
