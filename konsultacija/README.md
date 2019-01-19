@@ -6,6 +6,6 @@ Registruotis telefonu (Viber, WhatsApp): <a href="tel:++37068568636">+370 685 68
 :::
 | Vieta         | Data          | Laikas|
 | ------------- |:-------------:| :-----:|
-| Clayton Hotel Liffey Valley| Sausio 26d. | *16:00*, 17:30, 19:00 |
-| Clayton Hotel Liffey Valley| Sausio 27d. | 11:00, 12:30, *14:00*, *15:30*, 17:00, 18:30 |
+| Clayton Hotel Liffey Valley| Sausio 26d. | teirautis telefonu |
+| Clayton Hotel Liffey Valley| Sausio 27d. | teirautis telefonu |
 | Clayton Hotel Liffey Valley| Sausio 28d. | teirautis telefonu |
