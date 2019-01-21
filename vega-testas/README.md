@@ -13,7 +13,7 @@
 - ar organizme yra mikro, makro auglių, gerybinių auglių, cistų;
 - ar slypi ūmus ar lėtinis uždegimas;
 - ar yra tinkami maisto produktai
-- ar yra psichoemociniu sutrikimu bei bioenergetiniu organizmo disbalansu
+- ar yra psichoemociniu sutrikimu bei bioenergetiniu organizmo disbalansų
 - ar gydytojo paskirti vaistai ligoniui yra tinkami ir kt.
 
 :::
