@@ -32,11 +32,9 @@ module.exports = {
         // algolia docsearch options for current locale
         algolia: {},
         nav: [
-          { text: 'Eglė Aukštakalnienė', link: '/about/' },
-          { text: 'vega testas', link: '/vega-testas/' },
-          { text: 'homeopatija', link: '/homeopatija/' },
-          { text: 'konsultacija', link: '/konsultacija/' },
-          { text: 'klausimai', link: '/klausimai/' }
+          { text: 'Apie', link: '/about/' },
+          { text: 'Konsultacijos', link: '/konsultacija/' },
+          { text: 'Klausimai', link: '/klausimai/' }
         ],
         // sidebar: {
         //   '/': [/* ... */],
