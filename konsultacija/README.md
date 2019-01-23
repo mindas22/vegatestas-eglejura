@@ -11,3 +11,15 @@ arba <a href="tel:+353857338886">085 733 8886</a>
 | Clayton Hotel Liffey Valley| Sausio 26d. | teirautis telefonu |
 | Clayton Hotel Liffey Valley| Sausio 27d. | teirautis telefonu |
 | Clayton Hotel Liffey Valley| Sausio 28d. | teirautis telefonu |
+
+Vega testo būdu galima ištirti visą organizmo būklę, tai yra visų organų funkcinius ir organinius sutrikimus, kai dar nejaučiame simptomų, o organizmas eina į ligą.
+
+Taip pat galima nustatyti organizmo užterštumą, parazitus, bakterijas, virusus, grybelinę infekciją, alergijas  ir medžiagų apykaitos  sutrikimus bei hormoninius pakitimus.
+
+Taip pat svarbus psichoemocinis ištyrimas, kuris yra būtinas kiekvienos ligos bei visų negalavimų gydyme.
+
+Ir visa tai galima koreaguoti ir gydyti dėka preparatų, kurie individualiai parenkami šio tyrimo metu.
+
+Tyrimas atliekamas be intervencijos, tiriant akupunktūrinį tašką delne biorezonansiniu metodu.
+
+Aš esu gydytoja homeopatė ir bendros praktikos gydytoja, todėl galiu padėti visais sveikatos ir profilaktiniais klausimais.
