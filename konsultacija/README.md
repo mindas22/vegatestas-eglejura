@@ -1,16 +1,12 @@
 # Konsultacija Dubline
 
-::: tip Dublinas Airija 2019 Sausio 26 - 28d.
-Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a>  
-
-arba <a href="tel:+353857338886">085 733 8886</a> (tik Airija)
+::: tip Dublinas Airija 2019 Kovo mėn
+Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a>
 
 :::
 | Vieta         | Data          | Laikas|
 | ------------- |:-------------:| :-----:|
-| Clayton Hotel Liffey Valley| Sausio 26d. | teirautis telefonu |
-| Clayton Hotel Liffey Valley| Sausio 27d. | teirautis telefonu |
-| Clayton Hotel Liffey Valley| Sausio 28d. | teirautis telefonu |
+| Dublin| Kovo mėn | teirautis telefonu |
 
 Vega testo būdu galima ištirti visą organizmo būklę, tai yra visų organų funkcinius ir organinius sutrikimus, kai dar nejaučiame simptomų, o organizmas eina į ligą.
 
