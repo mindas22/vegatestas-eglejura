@@ -5,7 +5,7 @@ actionText: Registruotis konsultacijai →
 actionLink: /konsultacija/index
 features:
 - title: Konsultacijos Airijoje
-  details: Airija Dublinas 2019 Sausio 26-28
+  details: Airija Dublinas 2019 Kovo 16-19 dienomis.
 - title: Konsultacijos Anglijoje
   details: Informacija ruošiama.
 - title: Konsultacijos Lietuvoje
