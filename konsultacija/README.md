@@ -1,21 +1,21 @@
 # Konsultacija Dubline
 
-::: tip Dublinas Airija 2019 Kovo mėn
-Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a>
+::: tip Dublinas Airija 2019 Gegužės mėn
+Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 <br>
-<a href="tel:+353857338886">+353 85 7338886</a> (tik Airija)
+<a href="tel:+353857338886">+353 85 7338886</a> (tik Airija) Mindaugas
 
 :::
-| Vieta         | Data          | Laikas|
+| Vieta | Data | Laikas|
 | ------------- |:-------------:| :-----:|
-| Dublin| Kovo mėn 16d.| teirautis telefonu |
-| Dublin| Kovo mėn 17d.| teirautis telefonu |
-| Dublin| Kovo mėn 18d.| teirautis telefonu |
-| Dublin| Kovo mėn 19d.| teirautis telefonu |
+| Dublin| Gegužės mėn 4d.| teirautis telefonu |
+| Dublin| Gegužės mėn 5d.| teirautis telefonu |
+| Dublin| Gegužės mėn 6d.| teirautis telefonu |
+| Dublin| Gegužės mėn 7d.| teirautis telefonu |
 
 Vega testo būdu galima ištirti visą organizmo būklę, tai yra visų organų funkcinius ir organinius sutrikimus, kai dar nejaučiame simptomų, o organizmas eina į ligą.
 
-Taip pat galima nustatyti organizmo užterštumą, parazitus, bakterijas, virusus, grybelinę infekciją, alergijas  ir medžiagų apykaitos  sutrikimus bei hormoninius pakitimus.
+Taip pat galima nustatyti organizmo užterštumą, parazitus, bakterijas, virusus, grybelinę infekciją, alergijas ir medžiagų apykaitos sutrikimus bei hormoninius pakitimus.
 
 Taip pat svarbus psichoemocinis ištyrimas, kuris yra būtinas kiekvienos ligos bei visų negalavimų gydyme.
 

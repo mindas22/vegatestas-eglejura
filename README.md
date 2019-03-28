@@ -4,19 +4,20 @@ heroImage: /hero1a.jpg
 actionText: Registruotis konsultacijai →
 actionLink: /konsultacija/index
 features:
-- title: Konsultacijos Airijoje
-  details: Airija Dublinas 2019 Kovo 16-19 dienomis.
-- title: Konsultacijos Anglijoje
-  details: Informacija ruošiama.
-- title: Konsultacijos Lietuvoje
-  details: Kaunas
+  - title: Konsultacijos Airijoje
+    details: Airija Dublinas 2019 Gegužės 4-7 dienomis.
+  - title: Konsultacijos Anglijoje
+    details: Informacija ruošiama.
+  - title: Konsultacijos Lietuvoje
+    details: Kaunas
 footer: Copyright © 2019 Vega testas Eglė Aukštakalnienė
 ---
+
 # Vega Testas
 
 Vega testo būdu galima ištirti visą organizmo būklę, tai yra visų organų funkcinius ir organinius sutrikimus, kai dar nejaučiame simptomų, o organizmas eina į ligą.
 
-Taip pat galima nustatyti organizmo užterštumą, parazitus, bakterijas, virusus, grybelinę infekciją, alergijas  ir medžiagų apykaitos  sutrikimus bei hormoninius pakitimus.
+Taip pat galima nustatyti organizmo užterštumą, parazitus, bakterijas, virusus, grybelinę infekciją, alergijas ir medžiagų apykaitos sutrikimus bei hormoninius pakitimus.
 
 Taip pat svarbus psichoemocinis ištyrimas, kuris yra būtinas kiekvienos ligos bei visų negalavimų gydyme.
 
