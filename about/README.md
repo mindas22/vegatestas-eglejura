@@ -1,6 +1,6 @@
 # Eglė Aukštakalnienė - gydytoja homeopatė
 
-<img src="../img/egle-aukstakalniene.jpg" alt="Eglė Aukštakalnienė" height="400" style="float:left; padding: 0 10px; max-height: 100% max-height:400px;"/>
+<img src="../img/egle_aukstakalniene.jpg" alt="Eglė Aukštakalnienė" height="400" style="float:left; padding: 0 10px; max-height: 100% max-height:400px;"/>
 1994 baigė medicinos studijas Kauno Medicinos Akademijoje.
 Įgijo medicinos gydytojo kvalifikaciją, bei bendros medicinos praktikos specialybę. Šeimos gydytojo praktinė patirtis apie 15 metų.
 
@@ -12,7 +12,7 @@ Homeopatės naturopatės darbo patirtis 10 metų. Atlieka vega testą, bei konsu
 
 # Vega testas
 
- – tai diagnostika, atliekama su labai jautria aparatūra, kuri **fiksuoja menkiausius organizmo funkcijos sutrikimus ląsteliniu lygmeniu**. Tyrimo metu vienoje rankoje laikomas pasyvus elektrodas, o kitoje aktyviu elektrodu matuojami sveiko taško fizikiniai parametrai ir stebimas organizmo atsakas į tam tikrus dirgiklius. Jeigu organizme yra pakitimų, kompiuterio ekrane pastebimas rezonansinis atsakas ir koreguojami šie  sutrikimai.
+– tai diagnostika, atliekama su labai jautria aparatūra, kuri **fiksuoja menkiausius organizmo funkcijos sutrikimus ląsteliniu lygmeniu**. Tyrimo metu vienoje rankoje laikomas pasyvus elektrodas, o kitoje aktyviu elektrodu matuojami sveiko taško fizikiniai parametrai ir stebimas organizmo atsakas į tam tikrus dirgiklius. Jeigu organizme yra pakitimų, kompiuterio ekrane pastebimas rezonansinis atsakas ir koreguojami šie sutrikimai.
 
 ::: tip Vega testo metu galima nustatyti:
 
