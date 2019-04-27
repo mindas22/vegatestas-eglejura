@@ -13,6 +13,11 @@ module.exports = {
       lang: "ru-RU",
       title: "Вега тест",
       description: "Вегето-резонансное тестирование (вега тест)"
+    },
+    "/en/": {
+      lang: "en-GB",
+      title: "Vega Test",
+      description: "Vega test, homeopath Eglė Aukštakalnienė"
     }
   },
   themeConfig: {
@@ -57,6 +62,26 @@ module.exports = {
         algolia: {},
         sidebar: {
           "/ru/": [
+            /* ... */
+          ],
+          "/zh/nested/": [
+            /* ... */
+          ]
+        }
+      },
+      "/en/": {
+        selectText: "language",
+        label: "english",
+        serviceWorker: {
+          updatePopup: {
+            message: "Page refresh",
+            buttonText: "refresh"
+          }
+        },
+        nav: [{ text: "About", link: "/en/about/" }],
+        algolia: {},
+        sidebar: {
+          "/en/": [
             /* ... */
           ],
           "/zh/nested/": [

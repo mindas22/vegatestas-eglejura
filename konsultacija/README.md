@@ -19,7 +19,7 @@ Taip pat galima nustatyti organizmo užterštumą, parazitus, bakterijas, virusu
 
 Taip pat svarbus psichoemocinis ištyrimas, kuris yra būtinas kiekvienos ligos bei visų negalavimų gydyme.
 
-Ir visa tai galima koreaguoti ir gydyti dėka preparatų, kurie individualiai parenkami šio tyrimo metu.
+Ir visa tai galima koreguoti ir gydyti dėka preparatų, kurie individualiai parenkami šio tyrimo metu.
 
 Tyrimas atliekamas be intervencijos, tiriant akupunktūrinį tašką delne biorezonansiniu metodu.
 
