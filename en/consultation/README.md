@@ -1,4 +1,4 @@
-# Konsultacija Dubline
+# Consultation in Dublin
 
 ::: tip Dublin Ireland 2019 May
 Register by phone (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
