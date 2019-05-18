@@ -1,6 +1,6 @@
 # Konsultacija Dubline
 
-::: tip Dublinas Airija 2019 Gegužės mėn
+::: tip Dublinas Airija 2019 Birželio mėn
 Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 <br>
 <a href="tel:+353857338886">+353 85 7338886</a> (tik Airija) Mindaugas
@@ -8,10 +8,8 @@ Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 686
 :::
 | Vieta | Data | Laikas|
 | ------------- |:-------------:| :-----:|
-| Dublin| Gegužės mėn 4d.| teirautis telefonu |
-| Dublin| Gegužės mėn 5d.| teirautis telefonu |
-| Dublin| Gegužės mėn 6d.| teirautis telefonu |
-| Dublin| Gegužės mėn 7d.| teirautis telefonu |
+| Dublin| Birželio mėn 8d.| teirautis telefonu |
+| Dublin| Birželio mėn 9d.| teirautis telefonu |
 
 Vega testo būdu galima ištirti visą organizmo būklę, tai yra visų organų funkcinius ir organinius sutrikimus, kai dar nejaučiame simptomų, o organizmas eina į ligą.
 
