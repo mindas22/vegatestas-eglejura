@@ -1,6 +1,6 @@
 # Konsultacija Dubline
 
-::: tip Dublinas Airija 2019 Birželio mėn
+::: tip Dublinas Airija 2019 Birželio mėn 7-9d
 Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 <br>
 <a href="tel:+353857338886">+353 85 7338886</a> (tik Airija) Mindaugas
@@ -8,6 +8,7 @@ Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 686
 :::
 | Vieta | Data | Laikas|
 | ------------- |:-------------:| :-----:|
+| Dublin| Birželio mėn 7d.| teirautis telefonu |
 | Dublin| Birželio mėn 8d.| teirautis telefonu |
 | Dublin| Birželio mėn 9d.| teirautis telefonu |
 

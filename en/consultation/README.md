@@ -1,11 +1,12 @@
 # Consultation in Dublin
 
-::: tip Dublin Ireland 2019 June 8-9
+::: tip Dublin Ireland 2019 June 7-9
 Register by phone (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 
 :::
 | Place | Date | Time|
 | ------------- |:-------------:| :-----:|
+| Dublin| 7th June 2019 | contact by phone |
 | Dublin| 8th June 2019 | contact by phone |
 | Dublin| 9th June 2019 | contact by phone |
 
