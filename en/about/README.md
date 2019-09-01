@@ -1,4 +1,4 @@
-# Eglė Aukštakalnienė - gydytoja homeopatė
+# Eglė Aukštakalnienė - doctor homeopath
 
 <img src="../../img/egle_aukstakalniene.jpg" alt="Eglė Aukštakalnienė" height="400" style="float:left; padding: 0 10px; max-height: 100% max-height:400px;"/>
 1994 acquired medical doctor's qualification and general medical practice degree at Medical Academy of Kaunas. Practical experience as a family doctor is about 15 years.
@@ -37,26 +37,4 @@ Information received from the VEGA TEST EXPERT can suggest:
 - Dental disturbance fields
 - Geopathic stress
 
-- ar žmogaus organizmas yra paveiktas žalingų geopatogenezinių zonų, jonizuojančios radiacijos, elektromagnetinių jėgos laukų (mobiliųjų telefonų, kompiuterių);
-- ar organizme yra parazitų, bakterijų, virusų, toksinų, sunkiųjų metalų bei kitų medžiagų;
-- ar organizmui trūksta vitaminų, mineralų, hormonų;
-- ar sutrikęs rūgščių–šarmų balansas organizme, natūralusis pH;
-- ar pasireiškia alergija;
-- ar negresia susirgti onkologine liga;
-- ar organizme yra mikro, makro auglių, gerybinių auglių, cistų;
-- ar slypi ūmus ar lėtinis uždegimas;
-- ar yra tinkami maisto produktai;
-- ar yra psichoemocinių sutrikimų bei bioenergetinių organizmo disbalansų;
-- ar gydytojo paskirti vaistai ligoniui yra tinkami ir kt.
-
 :::
-
-# Homeopathy
-
-- Tai biologinė, natūrali medicina, kuri apima visa, kas paimta iš gamtos.
-
-- Gydymo principas yra ne slopinti, o aktyvinti organizmo reakcijas, siekiant padėti organizmui harmonizuoti visas sistemas ir jas atvesti į pusiausvyrą.
-
-- Homeopatija yra glaudžiai susijusi su organizmo valymu ir psichoemocinio lygio normalizavimu.
-
-- Tai alternatyva cheminei medicinai, kurios gydymo principai yra visiškai kitokie.
