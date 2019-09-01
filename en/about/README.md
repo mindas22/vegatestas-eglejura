@@ -1,6 +1,6 @@
 # Eglė Aukštakalnienė - doctor homeopath
 
-<img src="../../img/egle_aukstakalniene.jpg" alt="Eglė Aukštakalnienė" height="400" style="float:left; padding: 0 10px; max-height: 100% max-height:400px;"/>
+<img src="../../img/egle-aukstakalniene.jpg" alt="Eglė Aukštakalnienė" height="400" style="float:left; padding: 0 10px; max-height: 100% max-height:400px;"/>
 1994 acquired medical doctor's qualification and general medical practice degree at Medical Academy of Kaunas. Practical experience as a family doctor is about 15 years.
 
 Studied homeopathy at Kaunas Medical University. Also studied antihomotoxic therapies at Kiev's Popov Homeopathic Center.
