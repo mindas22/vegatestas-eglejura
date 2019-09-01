@@ -36,10 +36,18 @@ module.exports = {
         },
         // algolia docsearch options for current locale
         algolia: {},
-        nav: [
-          { text: "Apie", link: "/about/" },
-          { text: "Konsultacijos", link: "/konsultacija/" },
-          { text: "Klausimai", link: "/klausimai/" }
+        nav: [{
+            text: "Apie",
+            link: "/about/"
+          },
+          {
+            text: "Konsultacijos",
+            link: "/konsultacija/"
+          },
+          {
+            text: "Klausimai",
+            link: "/klausimai/"
+          }
         ]
         // sidebar: {
         //   '/': [/* ... */],
@@ -55,9 +63,14 @@ module.exports = {
             buttonText: "refresh"
           }
         },
-        nav: [
-          { text: "Вега тест", link: "/ru/" },
-          { text: "Эгле Аукштакальнене", link: "/ru/about/" }
+        nav: [{
+            text: "Вега тест",
+            link: "/ru/"
+          },
+          {
+            text: "Эгле Аукштакальнене",
+            link: "/ru/about/"
+          }
         ],
         algolia: {},
         sidebar: {
@@ -78,7 +91,10 @@ module.exports = {
             buttonText: "refresh"
           }
         },
-        nav: [{ text: "About", link: "/en/about/" }],
+        nav: [{
+          text: "About",
+          link: "/en/about/"
+        }],
         algolia: {},
         sidebar: {
           "/en/": [
@@ -91,5 +107,12 @@ module.exports = {
       }
     }
   },
-  ga: "UA-131742364-1"
+  // ga: "UA-131742364-1",
+  plugins: [
+    [
+      '@vuepress/google-analytics', {
+        ga: 'UA-131742364-1'
+      }
+    ]
+  ]
 };
