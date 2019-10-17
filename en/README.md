@@ -5,7 +5,7 @@ actionText: Register for consultation →
 actionLink: /en/consultation/index
 features:
   - title: Consultations in Ireland
-    details: Ireland Dublin 28-30 September 2019.
+    details: Ireland Dublin 22-25 November 2019.
   - title: Consultations in England
     details: Information TBA
   - title: Consultations in Lithuania
