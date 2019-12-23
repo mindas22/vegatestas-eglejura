@@ -5,12 +5,12 @@ actionText: Register for consultation →
 actionLink: /en/consultation/index
 features:
   - title: Consultations in Ireland
-    details: Ireland Dublin 22-25 November 2019.
+    details: Ireland Dublin January 2020.
   - title: Consultations in England
     details: Information TBA
   - title: Consultations in Lithuania
     details: Kaunas
-footer: Copyright © 2019 Vega testas Eglė Aukštakalnienė
+footer: Copyright © 2019-2020 Vega testas Eglė Aukštakalnienė
 ---
 
 # Vega Test

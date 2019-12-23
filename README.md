@@ -5,12 +5,12 @@ actionText: Registruotis konsultacijai →
 actionLink: /konsultacija/index
 features:
   - title: Konsultacijos Airijoje
-    details: Airija Dublinas 2019 Lapkričio 22-25 dienomis.
+    details: Airija Dublinas 2020 Sausio mėnesį (dienos bus patikslintos).
   - title: Konsultacijos Anglijoje
     details: Informacija ruošiama.
   - title: Konsultacijos Lietuvoje
     details: Kaunas
-footer: Copyright © 2019 Vega testas Eglė Aukštakalnienė
+footer: Copyright © 2019-2020 Vega testas Eglė Aukštakalnienė
 ---
 
 # Vega Testas
