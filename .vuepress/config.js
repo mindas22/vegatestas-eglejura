@@ -107,7 +107,6 @@ module.exports = {
       }
     }
   },
-  // ga: "UA-131742364-1",
   plugins: [
     [
       '@vuepress/google-analytics', {
