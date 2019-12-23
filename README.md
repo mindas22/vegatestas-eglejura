@@ -5,7 +5,7 @@ actionText: Registruotis konsultacijai →
 actionLink: /konsultacija/index
 features:
   - title: Konsultacijos Airijoje
-    details: Airija Dublinas 2020 Sausio mėnesį (dienos bus patikslintos).
+    details: Airija Dublinas 2020 Sausio mėnesį 24-27d.
   - title: Konsultacijos Anglijoje
     details: Informacija ruošiama.
   - title: Konsultacijos Lietuvoje

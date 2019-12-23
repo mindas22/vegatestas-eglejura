@@ -5,7 +5,7 @@ actionText: Register for consultation →
 actionLink: /en/consultation/index
 features:
   - title: Consultations in Ireland
-    details: Ireland Dublin January 2020.
+    details: Ireland Dublin 24-27th January 2020.
   - title: Consultations in England
     details: Information TBA
   - title: Consultations in Lithuania
