@@ -7,9 +7,9 @@ features:
   - title: Consultations in Ireland
     details: Ireland Dublin February 2020.
   - title: Consultations in England
-    details: Information TBA
+    details: London contact for info
   - title: Consultations in Lithuania
-    details: Kaunas
+    details: Kaunas contact for info
 footer: Copyright © 2019-2020 Vega testas Eglė Aukštakalnienė
 ---
 
