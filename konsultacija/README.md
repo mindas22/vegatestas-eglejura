@@ -1,4 +1,4 @@
-# Konsultacija Dubline
+# Konsultacijоs
 
 ::: tip Dublinas Airija 2020 Vasario mėn.
 Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
@@ -12,10 +12,14 @@ Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 686
 | Dublin| Vasario mėn. | teirautis telefonu |
 | Dublin| Vasario mėn. | teirautis telefonu |
 | Dublin| Vasario mėn. | teirautis telefonu |
-| London| Vasario mėn. | teirautis telefonu |
-| London| Vasario mėn. | teirautis telefonu |
-| London| Vasario mėn. | teirautis telefonu |
-| Kaunas| Sausio mėn. | teirautis telefonu |
+
+::: tip Londonas 2020 Vasario mėn.
+Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
+:::
+
+::: tip Kaunas 2020 visi mėnesiai.
+Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
+:::
 
 Vega testo būdu galima ištirti visą organizmo būklę, tai yra visų organų funkcinius ir organinius sutrikimus, kai dar nejaučiame simptomų, o organizmas eina į ligą.
 

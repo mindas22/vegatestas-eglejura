@@ -5,7 +5,7 @@
 
 Studied homeopathy at Kaunas Medical University. Also studied antihomotoxic therapies at Kiev's Popov Homeopathic Center.
 
-10 years work experience as homeopathic-naturopathic. Carries out a vega test and advises on nutrition, lifestyle, psychoemocial correction issues.
+20 years work experience as homeopathic-naturopathic. Carries out a vega test and advises on nutrition, lifestyle, psychoemocial correction issues.
 <br style="clear: both;" />
 
 # Vega test
