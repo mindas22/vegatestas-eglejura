@@ -7,7 +7,9 @@
 Studijavo homeopatiją Kauno Medicinos universitete.
 Kijevo D.Popovos homeopatiniam centre, mokesi antihomotoksines terapijos studijose.
 
-Homeopatės naturopatės darbo patirtis 10 metų. Atlieka vega testą, bei konsultuoja mitybos, gyvenimo būdo, psichoemocines korekcijos klausimais.
+Homeopatės naturopatės darbo patirtis 20 metų. Atlieka vega testą, bei konsultuoja mitybos, gyvenimo būdo, psichoemocines korekcijos klausimais.
+
+Anglijos homeopatų asociacijos narė nuo 2019 metų
 <br style="clear: both;" />
 
 # Vega testas

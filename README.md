@@ -7,7 +7,7 @@ features:
   - title: Konsultacijos Airijoje
     details: Airija Dublinas 2020 Vasario mėnesį.
   - title: Konsultacijos Anglijoje
-    details: Informacija ruošiama.
+    details: Londonas
   - title: Konsultacijos Lietuvoje
     details: Kaunas
 footer: Copyright © 2019-2020 Vega testas Eglė Aukštakalnienė
