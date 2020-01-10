@@ -16,6 +16,9 @@ Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 686
 ::: tip Londonas 2020 Vasario mėn.
 Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 :::
+| Vieta | Data | Laikas|
+| ------------- |:-------------:| :-----:|
+| London| Vasario mėn. | teirautis telefonu |
 
 ::: tip Kaunas 2020 visi mėnesiai.
 Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
