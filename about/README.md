@@ -5,11 +5,11 @@
 Įgijo medicinos gydytojo kvalifikaciją, bei bendros medicinos praktikos specialybę. Šeimos gydytojo praktinė patirtis apie 15 metų.
 
 Studijavo homeopatiją Kauno Medicinos universitete.
-Kijevo D.Popovos homeopatiniam centre, mokesi antihomotoksines terapijos studijose.
+Mokėsi Kijevo D.Popovos homeopatiniam centre, baigė antihomotoksines terapijos studijas.
 
 Homeopatės naturopatės darbo patirtis 20 metų. Atlieka vega testą, bei konsultuoja mitybos, gyvenimo būdo, psichoemocines korekcijos klausimais.
 
-Anglijos homeopatų asociacijos narė nuo 2019 metų
+Anglijos homeopatų asociacijos narė nuo 2019 metų.
 <br style="clear: both;" />
 
 # Vega testas
