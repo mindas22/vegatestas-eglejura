@@ -28,15 +28,10 @@ module.exports = {
         // label for this locale in the language dropdown
         label: "lietuvių",
         // config for Service Worker
-        serviceWorker: {
-          updatePopup: {
-            message: "Puslapis atnaujintas",
-            buttonText: "Refresh"
-          }
-        },
         // algolia docsearch options for current locale
         algolia: {},
-        nav: [{
+        nav: [
+          {
             text: "Apie",
             link: "/about/"
           },
@@ -63,7 +58,8 @@ module.exports = {
             buttonText: "refresh"
           }
         },
-        nav: [{
+        nav: [
+          {
             text: "Вега тест",
             link: "/ru/"
           },
@@ -85,16 +81,12 @@ module.exports = {
       "/en/": {
         selectText: "language",
         label: "english",
-        serviceWorker: {
-          updatePopup: {
-            message: "Page refresh",
-            buttonText: "refresh"
+        nav: [
+          {
+            text: "About",
+            link: "/en/about/"
           }
-        },
-        nav: [{
-          text: "About",
-          link: "/en/about/"
-        }],
+        ],
         algolia: {},
         sidebar: {
           "/en/": [
@@ -109,8 +101,29 @@ module.exports = {
   },
   plugins: [
     [
-      '@vuepress/google-analytics', {
-        ga: 'UA-131742364-1'
+      "@vuepress/google-analytics",
+      {
+        ga: "UA-131742364-1"
+      }
+    ],
+    [
+      "@vuepress/pwa",
+      {
+        serviceWorker: true,
+        updatePopup: {
+          "/": {
+            message: "Puslapis turinys paseno.",
+            buttonText: "Atnaujinti"
+          },
+          "/en/": {
+            message: "New content is available.",
+            buttonText: "Refresh"
+          },
+          "/ru/": {
+            message: "New content is available.",
+            buttonText: "Refresh"
+          }
+        }
       }
     ]
   ]
