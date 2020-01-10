@@ -1,15 +1,15 @@
 # Consultation in Dublin
 
-::: tip Dublin Ireland 2020 January
+::: tip Dublin Ireland 2020 February
 Register by phone (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 
 :::
 | Place | Date | Time|
 | ------------- |:-------------:| :-----:|
-| Dublin| 22th January 2020 | contact by phone |
-| Dublin| 23th January 2020 | contact by phone |
-| Dublin| 24th January 2020 | contact by phone |
-| Dublin| 25th January 2020 | contact by phone |
+| Dublin| February 2020 | contact by phone |
+| Dublin| February 2020 | contact by phone |
+| Dublin| February 2020 | contact by phone |
+| Dublin| February 2020 | contact by phone |
 
 – VEGA testing is a method of measuring a change in an acupuncture point. By placing a test substance into the measuring
 circuit the practitioner can readily observe these changes.
