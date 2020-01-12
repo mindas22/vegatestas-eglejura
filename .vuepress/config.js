@@ -112,7 +112,7 @@ module.exports = {
         serviceWorker: true,
         updatePopup: {
           "/": {
-            message: "Puslapis turinys paseno.",
+            message: "Puslapio turinys paseno.",
             buttonText: "Atnaujinti"
           },
           "/en/": {
