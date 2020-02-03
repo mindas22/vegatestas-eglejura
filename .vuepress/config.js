@@ -30,8 +30,7 @@ module.exports = {
         // config for Service Worker
         // algolia docsearch options for current locale
         algolia: {},
-        nav: [
-          {
+        nav: [{
             text: "Apie",
             link: "/about/"
           },
@@ -58,8 +57,7 @@ module.exports = {
             buttonText: "refresh"
           }
         },
-        nav: [
-          {
+        nav: [{
             text: "Вега тест",
             link: "/ru/"
           },
@@ -81,10 +79,13 @@ module.exports = {
       "/en/": {
         selectText: "language",
         label: "english",
-        nav: [
-          {
+        nav: [{
             text: "About",
             link: "/en/about/"
+          },
+          {
+            text: "Consultations",
+            link: "/en/consultation/"
           }
         ],
         algolia: {},

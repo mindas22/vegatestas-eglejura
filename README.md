@@ -7,9 +7,9 @@ features:
   - title: Konsultacijos Airijoje
     details: Airija Dublinas 2020 Vasario mėnesį.
   - title: Konsultacijos Anglijoje
-    details: Londonas
+    details: Anglija Londonas 2020 Vasario mėnesį.
   - title: Konsultacijos Lietuvoje
-    details: Kaunas
+    details: Kaunas - Visi mėnesiai.
 footer: Copyright © 2019-2020 Vega testas Eglė Aukštakalnienė
 ---
 
@@ -18,6 +18,8 @@ footer: Copyright © 2019-2020 Vega testas Eglė Aukštakalnienė
 Vega testo būdu galima ištirti visą organizmo būklę, tai yra visų organų funkcinius ir organinius sutrikimus, kai dar nejaučiame simptomų, o organizmas eina į ligą.
 
 Taip pat galima nustatyti organizmo užterštumą, parazitus, bakterijas, virusus, grybelinę infekciją, alergijas ir medžiagų apykaitos sutrikimus bei hormoninius pakitimus.
+
+Atliekamas maisto netoliaravimo testas, sudaroma individuali dieta.
 
 Taip pat svarbus psichoemocinis ištyrimas, kuris yra būtinas kiekvienos ligos bei visų negalavimų gydyme.
 

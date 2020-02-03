@@ -1,6 +1,6 @@
 # Konsultacijоs
 
-::: tip Dublinas Airija 2020 Vasario mėn.
+::: tip Dublinas Airija 2020 Vasario - Kovo mėn.
 Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 <br>
 <a href="tel:+353857338886">+353 85 7338886</a> (tik Airija) Mindaugas
@@ -8,17 +8,19 @@ Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 686
 :::
 | Vieta | Data | Laikas|
 | ------------- |:-------------:| :-----:|
-| Dublin| Vasario mėn. | teirautis telefonu |
-| Dublin| Vasario mėn. | teirautis telefonu |
-| Dublin| Vasario mėn. | teirautis telefonu |
-| Dublin| Vasario mėn. | teirautis telefonu |
+| Dublin| Vasario mėn. 28d. | teirautis telefonu |
+| Dublin| Vasario mėn. 29d. | teirautis telefonu |
+| Dublin| Kovo mėn. 1d.| teirautis telefonu |
+| Dublin| Kovo mėn. 2d.| teirautis telefonu |
 
 ::: tip Londonas 2020 Vasario mėn.
 Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 :::
 | Vieta | Data | Laikas|
 | ------------- |:-------------:| :-----:|
-| London| Vasario mėn. | teirautis telefonu |
+| London| Vasario mėn. 22d. | teirautis telefonu |
+| London| Vasario mėn. 23d. | teirautis telefonu |
+| London| Vasario mėn. 24d. | teirautis telefonu |
 
 ::: tip Kaunas 2020 visi mėnesiai.
 Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
@@ -28,6 +30,8 @@ Vega testo būdu galima ištirti visą organizmo būklę, tai yra visų organų 
 
 Taip pat galima nustatyti organizmo užterštumą, parazitus, bakterijas, virusus, grybelinę infekciją, alergijas ir medžiagų apykaitos sutrikimus bei hormoninius pakitimus.
 
+Atliekamas maisto netoliaravimo testas, sudaroma individuali dieta.
+
 Taip pat svarbus psichoemocinis ištyrimas, kuris yra būtinas kiekvienos ligos bei visų negalavimų gydyme.
 
 Ir visa tai galima koreguoti ir gydyti dėka preparatų, kurie individualiai parenkami šio tyrimo metu.
@@ -35,3 +39,5 @@ Ir visa tai galima koreguoti ir gydyti dėka preparatų, kurie individualiai par
 Tyrimas atliekamas be intervencijos, tiriant akupunktūrinį tašką delne biorezonansiniu metodu.
 
 Aš esu gydytoja homeopatė ir bendros praktikos gydytoja, todėl galiu padėti visais sveikatos ir profilaktiniais klausimais.
+
+Mano tikslas išgydyti, o ne sustabdyti ligą ir sutrikimus, pasiekti organizmo balanso, harmonijos, savireguluacijos, psichoemocinės pusiausvyros, kurie yra būtini kokybiškos pilnatviskos ir sveikos sielos žmogui.
