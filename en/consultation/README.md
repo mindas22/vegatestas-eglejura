@@ -8,8 +8,8 @@ Register by phone (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</
 | ------------- |:-------------:| :-----:|
 | Dublin| 28th. February | contact by phone |
 | Dublin| 29th. February | contact by phone |
-| Dublin| 1th March | contact by phone |
-| Dublin| 2th March | contact by phone |
+| Dublin| 1th. March | contact by phone |
+| Dublin| 2th. March | contact by phone |
 
 ::: tip United Kingdom, London 2020 February
 Register by phone: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
