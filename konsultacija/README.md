@@ -8,21 +8,16 @@ Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 686
 :::
 | Vieta | Data | Laikas|
 | ------------- |:-------------:| :-----:|
-| Dublin| Vasario mėn. 28d. | teirautis telefonu |
-| Dublin| Vasario mėn. 29d. | teirautis telefonu |
-| Dublin| Kovo mėn. 1d.| teirautis telefonu |
-| Dublin| Kovo mėn. 2d.| teirautis telefonu |
+| Dublin| Kovo arba Balandžio mėnesį. | teirautis telefonu |
 
-::: tip Londonas 2020 Vasario mėn.
+::: tip Londonas 2020 Kovo mėn.
 Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 :::
 | Vieta | Data | Laikas|
 | ------------- |:-------------:| :-----:|
-| London| Vasario mėn. 22d. | teirautis telefonu |
-| London| Vasario mėn. 23d. | teirautis telefonu |
-| London| Vasario mėn. 24d. | teirautis telefonu |
+| London| Kovo mėnesį. | teirautis telefonu |
 
-::: tip Kaunas 2020 visi mėnesiai.
+::: tip Kaunas 2020 Teirautis telefonu 
 Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 :::
 
