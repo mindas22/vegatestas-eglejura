@@ -5,9 +5,9 @@ actionText: Registruotis konsultacijai →
 actionLink: /konsultacija/index
 features:
   - title: Konsultacijos Airijoje
-    details: Airija Dublinas 2020 Vasario mėnesį.
+    details: Airija Dublinas 2020 Balandžio mėnesį.
   - title: Konsultacijos Anglijoje
-    details: Anglija Londonas 2020 Vasario mėnesį.
+    details: Anglija Londonas 2020 Kovo mėnesį.
   - title: Konsultacijos Lietuvoje
     details: Kaunas - Domėtis telefonu.
 footer: Copyright © 2019-2020 Vega testas Eglė Aukštakalnienė

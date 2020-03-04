@@ -1,6 +1,6 @@
 # Konsultacijоs
 
-::: tip Dublinas Airija 2020 Vasario - Kovo mėn.
+::: tip Dublinas Airija 2020 Balandžio mėnesį
 Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 <br>
 <a href="tel:+353857338886">+353 85 7338886</a> (tik Airija) Mindaugas
@@ -8,7 +8,7 @@ Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 686
 :::
 | Vieta | Data | Laikas|
 | ------------- |:-------------:| :-----:|
-| Dublin| Kovo arba Balandžio mėnesį. | teirautis telefonu |
+| Dublin| Balandžio mėnesį. | teirautis telefonu |
 
 ::: tip Londonas 2020 Kovo mėn.
 Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
@@ -17,7 +17,7 @@ Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 | ------------- |:-------------:| :-----:|
 | London| Kovo mėnesį. | teirautis telefonu |
 
-::: tip Kaunas 2020 Teirautis telefonu 
+::: tip Kaunas 2020 Teirautis telefonu
 Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 :::
 
