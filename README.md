@@ -28,3 +28,5 @@ Ir visa tai galima koreguoti ir gydyti dėka preparatų, kurie individualiai par
 Tyrimas atliekamas be intervencijos, tiriant akupunktūrinį tašką delne biorezonansiniu metodu.
 
 Aš esu gydytoja homeopatė ir bendros praktikos gydytoja, todėl galiu padėti visais sveikatos ir profilaktiniais klausimais.
+
+Facebook puslapis: [fb.me/vegatestaseglejura](https://fb.me/vegatestaseglejura)

@@ -11,7 +11,7 @@ Registruotis telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 686
 | Dublin| Balandžio mėnesį. | teirautis telefonu |
 
 ::: tip Londonas 2020 Kovo mėn.
-Registruotis telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
+Registruotis telefonu: <a href="tel:+447842390676">+44(0)78 423 90676</a> Eglė A.
 :::
 | Vieta | Data | Laikas|
 | ------------- |:-------------:| :-----:|

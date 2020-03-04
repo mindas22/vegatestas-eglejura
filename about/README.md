@@ -41,3 +41,5 @@ Anglijos homeopatų asociacijos narė nuo 2019 metų.
 - Homeopatija yra glaudžiai susijusi su organizmo valymu ir psichoemocinio lygio normalizavimu.
 
 - Tai alternatyva cheminei medicinai, kurios gydymo principai yra visiškai kitokie.
+
+Facebook puslapis: [fb.me/vegatestaseglejura](https://fb.me/vegatestaseglejura)
