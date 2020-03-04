@@ -20,3 +20,13 @@ collections:
         name: "konsultacija"
         fields:
           - { label: "Body", name: "body", widget: "markdown" }
+      - file: "/vega-testas/README.md"
+        label: "Vega Testas"
+        name: "vegatestas"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "/README.md"
+        label: "Pagrindinis puslapis"
+        name: "pagrindinis puslapis"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
