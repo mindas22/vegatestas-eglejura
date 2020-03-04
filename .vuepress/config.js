@@ -21,9 +21,11 @@ module.exports = {
     }
   },
   themeConfig: {
+    lastUpdated: 'Last Updated', // string | boolean
     locales: {
       "/": {
         // text for the language dropdown
+        lastUpdated: "Informacija atnaujinta",
         selectText: "kalba",
         // label for this locale in the language dropdown
         label: "lietuvių",
