@@ -9,7 +9,7 @@ features:
   - title: Konsultacijos Anglijoje
     details: Anglija Londonas 2020 Vasario mėnesį.
   - title: Konsultacijos Lietuvoje
-    details: Kaunas - Visi mėnesiai.
+    details: Kaunas - Domėtis telefonu.
 footer: Copyright © 2019-2020 Vega testas Eglė Aukštakalnienė
 ---
 
