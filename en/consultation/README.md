@@ -1,24 +1,19 @@
 # Consultations
 
-::: tip Ireland, Dublin 2020 February
+::: tip Ireland, Dublin 2020 April
 Register by phone (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 
 :::
 | Place | Date | Time|
 | ------------- |:-------------:| :-----:|
-| Dublin| 28th. February | contact by phone |
-| Dublin| 29th. February | contact by phone |
-| Dublin| 1th. March | contact by phone |
-| Dublin| 2th. March | contact by phone |
+| Dublin| April | contact by phone |
 
-::: tip United Kingdom, London 2020 February
-Register by phone: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
+::: tip United Kingdom, London 2020 March
+Register by phone: <a href="tel:+447842390676">+44(0)78 423 90676</a> Eglė A.
 :::
 | Place | Date | Time|
 | ------------- |:-------------:| :-----:|
-| London| 22th. February | teirautis telefonu |
-| London| 23th. February | teirautis telefonu |
-| London| 24th. February | teirautis telefonu |
+| London| March | phone for info |
 
 ::: tip Lithuania, Kaunas 2020 year round
 Register by phone: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.

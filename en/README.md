@@ -5,7 +5,7 @@ actionText: Register for consultation →
 actionLink: /en/consultation/index
 features:
   - title: Consultations in Ireland
-    details: Ireland Dublin March 2020
+    details: Ireland Dublin April 2020
   - title: Consultations in England
     details: United Kingdom London March 2020
   - title: Consultations in Lithuania
