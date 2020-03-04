@@ -5,9 +5,9 @@ actionText: Register for consultation →
 actionLink: /en/consultation/index
 features:
   - title: Consultations in Ireland
-    details: Ireland Dublin February 2020
+    details: Ireland Dublin March 2020
   - title: Consultations in England
-    details: United Kingdom London February 2020
+    details: United Kingdom London March 2020
   - title: Consultations in Lithuania
     details: Kaunas all year round
 footer: Copyright © 2019-2020 Vega testas Eglė Aukštakalnienė
