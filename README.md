@@ -5,15 +5,20 @@ actionText: Registruotis konsultacijai →
 actionLink: /konsultacija/index
 features:
   - title: Konsultacijos Airijoje
-    details: Airija Dublinas 2020 Balandžio mėnesį.
+    details: Airija Dublinas 2020 Planuojama Birželio mėnesį.
   - title: Konsultacijos Anglijoje
-    details: Anglija Londonas 2020 Kovo mėnesį.
+    details: Anglija Londonas 2020 Birželio mėnesį.
   - title: Konsultacijos Lietuvoje
     details: Kaunas - Domėtis telefonu.
 footer: Copyright © 2019-2020 Vega testas Eglė Aukštakalnienė
 ---
 
 # Vega Testas
+
+::: danger Dėl COVID19
+Šiuo metų konsultacijos tik telefonu, internetu per atstumą.
+:::
+
 
 Vega testo būdu galima ištirti visą organizmo būklę, tai yra visų organų funkcinius ir organinius sutrikimus, kai dar nejaučiame simptomų, o organizmas eina į ligą.
 
