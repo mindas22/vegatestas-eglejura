@@ -1,9 +1,5 @@
 # Konsultacijоs
 
-::: danger Dėl COVID19
-Šiuo metų konsultacijos tik telefonu, internetu per atstumą.
-:::
-
 
 ::: tip Dublinas Airija 2020 - Konsultuoju per atstumą
 Konsultacija telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
@@ -15,15 +11,15 @@ Konsultacija telefonu (Viber, WhatsApp): <a href="tel:+37068568636">+370 685 686
 | ------------- |:-------------:| :-----:|
 | Dublin| Konsultacija per atstumą | Konsultacija per atstumą |
 
-::: tip Londonas 2020 Kovo mėn.
+::: tip Londonas 2020
 Konsultacija telefonu: <a href="tel:+447842390676">+44(0)78 423 90676</a> Eglė A.
 :::
 | Vieta | Data | Laikas|
 | ------------- |:-------------:| :-----:|
 | London| Konsultacija per atstumą | Konsultacija per atstumą |
 
-::: tip Kaunas 2020 Konsultacija per atstumą
-Konsultacija telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
+::: tip Kaunas 2020 pasiskambinti dėl konsultacijos
+Registracija telefonu: <a href="tel:+37068568636">+370 685 68636</a> Eglė A.
 :::
 
 Vega testo būdu galima ištirti visą organizmo būklę, tai yra visų organų funkcinius ir organinius sutrikimus, kai dar nejaučiame simptomų, o organizmas eina į ligą.

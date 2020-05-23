@@ -15,10 +15,6 @@ footer: Copyright © 2019-2020 Vega testas Eglė Aukštakalnienė
 
 # Vega Testas
 
-::: danger Dėl COVID19
-Šiuo metų konsultacijos tik telefonu, internetu per atstumą.
-:::
-
 
 Vega testo būdu galima ištirti visą organizmo būklę, tai yra visų organų funkcinius ir organinius sutrikimus, kai dar nejaučiame simptomų, o organizmas eina į ligą.
 
